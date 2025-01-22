@@ -28,6 +28,7 @@ packages_skip_by_deps:
   - cartographer
   - octomap
   - urdfdom-py
+  - zenoh-cpp-vendor
 
 packages_remove_from_deps:
   - cartographer

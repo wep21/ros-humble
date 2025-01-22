@@ -26,6 +26,7 @@ packages_skip_by_deps:
   - octomap
   - rttest
   - urdfdom-py
+  - zenoh-cpp-vendor
 
 packages_remove_from_deps:
   - cartographer
